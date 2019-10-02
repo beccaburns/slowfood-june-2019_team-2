@@ -7,4 +7,14 @@
     = stylesheet_link_tag    'application', media: 'all', data: {'turbolinks-track' => 'reload'}
     = javascript_include_tag 'application', data: {'turbolinks-track' => 'reload'}
   %body
+    .ui.secondary.menu
+        %a.item#nav-logo
+          %i.utensils.icon
+        .right.menu
+          .item
+            .ui.icon.input
+              %input{:placeholder => "Search...", :type => "text"}/
+              %i.search.link.icon
+          %a.ui.item
+            Login
     = yield
