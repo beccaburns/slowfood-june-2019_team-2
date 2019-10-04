@@ -5,4 +5,4 @@ Feature: Restaurant Information
 
   Scenario: Viewing restaurant contact information on the application's landing page
       When I'm on the landing page
-      Then I should see "Phone Number"
+      Then I should see "Phone"
