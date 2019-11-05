@@ -2,18 +2,18 @@ The Slowfood Challenge of CraftAcademy
 ======================================
 
 ### Authors
-Becca Burns
-Sverrir Steindorsson
-Miyesier Kaerman
-Luca Lobacher
-Alex Saxena
+- Becca Burns
+- Sverrir Steindorsson
+- Miyesier Kaerman
+- Luca Lobacher
+- Alex Saxena
 
 This application was built with the following;
-**Front End:** Rails, CSS
-**Back End:** Rails
-**Testing Frameworks:** Cucumber, RSpec
-**Deployed at:**
-**Project Management Tool:** [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2401273)
+- **Front End:** Rails, CSS
+- **Back End:** Rails
+- **Testing Frameworks:** Cucumber, RSpec
+- **Deployed at:**
+- **Project Management Tool:** [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2401273)
 
 ### The code
 This repository contains our team's solution to the Slow Food Challenge; a web-based application (an Online Food Ordering System) that allows customers to order their food for home delivery, or for pick up from the restaurant. Our imaginary client is a restaurant owner that needs a website where he can list his menu and allow visitors to place orders. This was a one week challenge using Ruby on Rails as well as the gems Devise (for login and sign up functionality) and Cartify (for purchase order options).
